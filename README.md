@@ -17,7 +17,7 @@ https://github.com/YashaVinter/Test_epplus > Code > Download zip
 ### Зависимости  
 
 как то установить себе библиотеку EPPlus - через powershell или nuget  
-попробовать (сам не тестил) - dotnet add package EPPlus --version 6.0.7
+попробовать (сам не тестил) - dotnet add package EPPlus --version 5.8.0
 
 ### Преднастройки программы  
 
