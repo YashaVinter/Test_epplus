@@ -60,7 +60,7 @@ namespace Test_epplus
         {
             ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
 
-            var path = new FileInfo(@"C:\Users\User\Desktop\Работа Энергоком\2021 Сургут\Протоколы+текучка\Наладка\Комплексное опробование\Прогрузка токовых цепей\09,11,2021\Копия Копия Данные 08,11,2021 в2 тест.xlsm");
+            var path = new FileInfo(@"C:\Users\User\source\repos\Test_epplus\data.xlsm"); 
             using (ExcelPackage excel = new ExcelPackage(path))
             {
                 // Target a worksheet
